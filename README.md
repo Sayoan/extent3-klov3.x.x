@@ -30,6 +30,7 @@ Instalação:
 
 
 # Configurar o projeto de automação de testes com o Extent3
+  - Os serviços devem ser executados na ordem acima (mongod, mongo e klov respectivamente)
   - Vide projeto neste repositório.
   - Funções no App.config
   - Funções nas classes Relatorio.cs e Webdriver.cs
