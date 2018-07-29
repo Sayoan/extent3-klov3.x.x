@@ -1,7 +1,4 @@
 # extent3-klov3.x.x
-
-
-# extent3-klov3.x.x
 Projeto com exemplo da aplicação do recurso Klov e ExtentReport3
 
 Instalação:
