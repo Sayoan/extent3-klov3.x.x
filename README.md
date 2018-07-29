@@ -29,7 +29,7 @@ Instalação:
   - Acessar localhost:porta para validar o sucesso
 
 
-#Configurar o projeto de automação de testes com o Extent3
+# Configurar o projeto de automação de testes com o Extent3
   - Vide projeto neste repositório.
   - Funções no App.config
   - Funções nas classes Relatorio.cs e Webdriver.cs
