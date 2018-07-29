@@ -34,3 +34,4 @@ Instalação:
   - Vide projeto neste repositório.
   - Funções no App.config
   - Funções nas classes Relatorio.cs e Webdriver.cs
+  - Dê um rebuild pra puxar os pacotes
