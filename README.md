@@ -17,7 +17,7 @@ Instalação:
 # Instalar Mongo
 
   - Pré-requisito: MongoDB instalado.
-  - Executar o serviço "C:\Program Files\MongoDB\Server\3.2\bin\mongo.exe"
+  - Executar o serviço (modo admin) "C:\Program Files\MongoDB\Server\3.2\bin\mongo.exe"
 
 
 # Baixar o Klov
@@ -25,7 +25,7 @@ Instalação:
   - Disponível em: http://extentreports.com/community/
   - Extrair no diretório: C:
   - No diretório onde foi extraído, verificar a porta, configurar conforme necessidade no arquivo: application.properties. A variável se chama "server.port".
-  - Executar o serviço do klov: "C:\klov\klov-x.x\java -jar klov-x-x.jar"
+  - Executar o serviço do klov (modo admin): "C:\klov\klov-x.x\java -jar klov-x-x.jar"
   - Acessar localhost:porta para validar o sucesso
 
 
